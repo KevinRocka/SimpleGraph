@@ -26,5 +26,4 @@ this is the easy way to edit the graph
 ``` 
 
 ### Preview
-
-![image](https://github.com/KevinRocka/SimpleGraph/blob/master/SimpleGraph/screengif/simplegraph.png?raw=true)
+![image](https://github.com/KevinRocka/SimpleGraph/blob/master/app/screengif/simplegraph.png?raw=true)
