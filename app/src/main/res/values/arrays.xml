@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="review_grade_score">
+        <item>10</item>
+        <item>8</item>
+        <item>6</item>
+        <item>4</item>
+        <item>2</item>
+    </integer-array>
+
+</resources>
