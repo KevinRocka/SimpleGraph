@@ -1,14 +1,14 @@
-# RewardAnimation
+# SimpleGraph
 
 A simple graph
 
 
-### Integration
+## Integration
 
 Nothing to add in your project ^ ^
 
 
-### UseAge
+## UseAge
 
 this is the easy way to edit the graph
 
@@ -25,5 +25,5 @@ this is the easy way to edit the graph
 
 ``` 
 
-### Preview
+## Preview
 ![image](https://github.com/KevinRocka/SimpleGraph/blob/master/app/screengif/simplegraph.png?raw=true)
