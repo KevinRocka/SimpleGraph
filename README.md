@@ -1,16 +1,14 @@
 # RewardAnimation
 
-A simple graph
+一个简单的树状图制作，避免使用MPAndroidChart类似的增大APK包
 
 
-### Integration
+### 整合
 
-Nothing to add in your project ^ ^
+没有什么添加到你的项目
 
 
-### UseAge
-
-this is the easy way to edit the graph
+### 使用
 
 ``` java
 
@@ -25,6 +23,6 @@ this is the easy way to edit the graph
 
 ``` 
 
-### Preview
+### 预览
 
 ![image](https://github.com/KevinRocka/SimpleGraph/blob/master/SimpleGraph/screengif/simplegraph.png?raw=true)
