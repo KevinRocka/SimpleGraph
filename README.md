@@ -25,4 +25,4 @@
 
 
 ### 预览
-![image](https://github.com/KevinRocka/SimpleGraph/blob/master/app/screengif/simplegraph.png?raw=true)# SimpleGraph
+![image](https://github.com/KevinRocka/SimpleGraph/blob/master/app/screengif/simplegraph.png?raw=true)
