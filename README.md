@@ -1,16 +1,14 @@
 # SimpleGraph
 
-A simple graph
+一个简单的树状图制作，避免使用MPAndroidChart类似的jar增大APK包
+
+### 整合
 
 
-## Integration
+没有什么添加到你的项目
 
-Nothing to add in your project ^ ^
+### 使用
 
-
-## UseAge
-
-this is the easy way to edit the graph
 
 ``` java
 
@@ -25,5 +23,6 @@ this is the easy way to edit the graph
 
 ``` 
 
-## Preview
-![image](https://github.com/KevinRocka/SimpleGraph/blob/master/app/screengif/simplegraph.png?raw=true)
+
+### 预览
+![image](https://github.com/KevinRocka/SimpleGraph/blob/master/app/screengif/simplegraph.png?raw=true)# SimpleGraph
